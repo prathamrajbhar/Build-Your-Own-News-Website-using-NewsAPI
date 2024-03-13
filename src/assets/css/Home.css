@@ -1,0 +1,10 @@
+.headline-news {
+    padding: 10px;
+    background-color: #e8630a;
+}
+
+.headline-news a {
+    text-decoration: none;
+    color: #fff;
+
+}
